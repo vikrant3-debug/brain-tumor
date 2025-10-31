@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # brain tumor detection using python and sklearn
 
 <!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none","style":{"color":[]}} -->
@@ -151,3 +152,6 @@
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
+=======
+# brain-tumor
+>>>>>>> d0d11c159e4e233895e2d11c08e7a81b66fb8e2d
